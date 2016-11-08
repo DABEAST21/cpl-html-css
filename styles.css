@@ -3,13 +3,26 @@ body {
 }
 
 h1 {
-    color:navy
-    
+    color:white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
 }
 
 p {
-    color:blue
+    color:white;
     
-    
+}
+#wallpoet {
+    font-family: 'Wallpoet', cursive;
+    font-size: 20px;                        
+}
+
+#Covered {
+    font-family: 'Covered By Your Grace', cursive;
+    fon}
+
+#Amatic {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
 }
 
